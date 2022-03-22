@@ -1,9 +1,7 @@
 import React from "react";
 
 function Header() {
-    return(
-        <h1>Desde el Header</h1>
-    )
+  return <h1 className="encabezado">Tienda Virtual</h1>;
 }
 
-export default Header; 
+export default Header;
